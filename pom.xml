@@ -62,6 +62,7 @@
 				</plugin>
 
 				<!-- Install -->
+				<!-- https://maven.apache.org/plugins/maven-install-plugin -->
 				<!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-install-plugin -->
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
@@ -70,6 +71,7 @@
 				</plugin>
 
 				<!-- Deploy -->
+				<!-- https://maven.apache.org/plugins/maven-deploy-plugin -->
 				<!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-deploy-plugin -->
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
